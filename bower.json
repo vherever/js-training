@@ -1,0 +1,20 @@
+{
+  "name": "js-training",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "vherever <vherever@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vherever/js-training",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.3.3"
+  }
+}
